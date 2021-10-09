@@ -33,4 +33,7 @@ Here's a walkthrough of implemented user stories:
 
 ![ezgif com-gif-maker (21)](https://user-images.githubusercontent.com/87346208/136627578-8787698f-d147-4e6e-bc39-c59a787ccc3d.gif)
 
+![ezgif com-gif-maker (22)](https://user-images.githubusercontent.com/87346208/136643175-a35f6242-e554-4d45-80ef-ec9b7f5e3188.gif)
+
+
  
